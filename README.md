@@ -1,5 +1,7 @@
 # Bella Vista Restaurant Website
 
+**Live Demo:** [https://restaurant-site-mu.vercel.app/](https://restaurant-site-mu.vercel.app/)
+
 This project is a modern, feature-rich restaurant website built with [Create React App](https://github.com/facebook/create-react-app). It showcases Bella Vista's menu, events, reservation system, and more, providing an engaging experience for visitors.
 
 ## Table of Contents
